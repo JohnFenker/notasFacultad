@@ -1,0 +1,72 @@
+METRICAS Y ESTIMACIONES
+
+las metrias estan para asignar valor a los atributos de la calidad de software
+para identificar los componente que estan por debajo de la calidad
+hay M de control 
+de prediccion del product para medir atrib internos de un sist de soft
+	clase 1 metricas dinamicas
+		recopiladas por los registros de bugs
+	clase 2 estaticas
+		ya dados como el tamaño de codigo
+ambas ayudan a valorar distitntos aspectos 
+	tecnica
+	profesionalismo
+obviamente influyen la las desiciones
+
+formulacion
+recoleccion
+analisis
+interpretacion
+retroalimentacion
+
+deben ser caracterizadas y validas
+
+metricas de cotrol
+metrica de punto fusion
+para medir en tamaño del soft
+gqm opm 
+indentificadores metas especificas a alacanzar y medir
+
+
+Estimaciones
+
+permite dar un valor aproximado
+costos a medir 
+costo de proyecto / viaje / hardsoft
+
+
+Modelos empiricos de estimacion
+
+uso de modelos espiricos para saber costos esfuerzos
+por ejemplo COCOMO
+ldc
+
+cocomo 2000
+coonstruccion de protos 
+4 nivel
+
+construccion de protos
+dseño inicial
+reutilizacion
+post-arqui
+
+T6
+
+Diseño de software
+
+se basa en los datos en los compomente, interfaces y arquitectuas..areas centrales
+en diseño se foenta la calidad
+TIPOS
+sin D el sist es inestable, proporciona representaciones de soft a evaluar con respectode la calidad
+
+conceptos de diseño
+abstraccion 
+arquitectura
+patrones
+modularidad
+ocultamiento de informacion
+independencia funcional - acoplamiento
+refinamineto
+refactoizacion
+
+

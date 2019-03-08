@@ -1,0 +1,17 @@
+categorias de riesgos
+	proyecto
+	producto
+	negocio
+tipos de r
+	genericos a todos los proyec
+	especificos de un proyec
+abos tipos pueden ser
+	predecibles
+	impredecibles
+	conocidos--por evalucacion
+proceso mismo
+	identi
+	analisar
+	planificar
+	supervision
+	
